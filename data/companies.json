@@ -1,0 +1,15 @@
+[
+    {
+      "name": "ABC Industries",
+      "address": "123, Industrial Area, Peenya, Bangalore",
+      "contact": "9876543210",
+      "products": ["Metal Parts", "Machine Tools"]
+    },
+    {
+      "name": "XYZ Manufacturing",
+      "address": "456, Industrial Hub, Peenya, Bangalore",
+      "contact": "9876543221",
+      "products": ["Electrical Components", "Wiring"]
+    }
+  ]
+  
